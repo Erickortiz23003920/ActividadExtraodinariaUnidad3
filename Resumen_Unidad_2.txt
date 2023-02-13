@@ -1,0 +1,64 @@
+Resumen Unidad 2 
+
+Conceptos Basicos para iniciar a progrmar:
+
+Variables
+Las variables son las palabras clave a las cuales se les asignara un valor el cual nosotros podemos elegir y puede
+ser modificado a travez del programa. En javascript podemos devlarar una variable con la palabra reservada "var" 
+asi como la palabra "let" tambien se deben respetar ciertas reglas como que siempre debe sre escrita al inicio
+con una letra independiente que sea mayuscula o minuscula pero siempre cuidando que la proxima vez qque la utilicemos 
+este escrita de la misma manera yaque si no podiramos referirnos a una variable diferente, no se permiten espacios
+entre el nombre de nuestra variable unicamente se puede continuar con la sigueinte letra en mayuscula como ejemplo:
+LosNumerosEnteros. o bien podira ser espaciada con el simbolo_ el cual quedaria como: Los_numeros_enteros.
+
+Tipos de datos y operadores
+
+Son los tipos de valores que nosotros podemos usar.
+Entre ellos tenemos los valores numericos que esta conformado por todos los numeros que existen pero que estan limitados
+a la cifra que el lenguaje puede representar teniendo un rengo difeente dependiendo del lenguaje.
+
+Operadores Numericos
+
+Al igual que en la matematica convencional en javascript podemos realozar un conjunto de operaciones aritmeticas
+las cuales estan representadas con los simbolos convencionales como: +,-,/,* y %.
+
+Tambien tenemos operaciones comparativas que nos ayuda a comparar dos datos si son iguales, si no lo son, si uno es mayor
+o menor que el otro. estos estanrepresentados por sus propios simbolos como: ==,!=,<,>,<=,>=.
+
+Tipos de datos logicos:
+los tipos de datos logicos hace una comparacion entre dos datos y nos devuelve el resultado true or false o bien
+verdadero y falso
+como en el enunciado 5 es mayor que 2 sabemos que es cierto 5>2= true.
+
+operaciones logicas pueden utilizarse para hacer comparaciones entre dos datos o para enlazarlos para esto utilizamos
+( y,o,no) o escrito como lo hariamos en codigo &&, ||, ! respectivamente.
+
+esto nos puede ayudar a escribir dentro de nuestro codigo como seria
+(rojo || azul) que al leerlo diria rojo o azul pero utilizando nuestro operador logico.
+
+Cadena de caracteres
+Es un tipo de dato de manera escrita que se diferencia de los datos numericos como tal porque estos seescriben dentro
+de comillas dobles o simples "ejemplo" aunque si bien los datos numericos no van dentro de comillas los numeros si pueden
+convertirse en string al ponerlo dentro de estas.
+
+Estructurad e control de condicionales:
+
+Al momento de realizar un algoritmo podemos utilizar condicionales las cuales nos ayudan a que un programa siga con su ejecucion
+ o bien la termine y si es el caso que vuelva a repetirla.
+Para estoo utilizamos 3 que serian if, el cual puede utilizarse para referirse aque si se cumple con cierto factor se puede
+continuar de otra manera no se podra hacer, como ejemplo: si tengo tiempo ire al cine y es una condicional ya que 
+si yo no tuviera tiempo no podria ir al cine. Tambien tenemos la condicional if...else que es como la primera que nos indica
+que si nuestro factor es cumplido entonces podemos continuar pero ademas se agrega una instruccion de lo que debe hacer
+si no se cumple con dicha condicion por ejemplo: si hoy tengo tiempo saldre al cine sino me quedare el casa.
+else if esta condicional se usa para darle otra opsion a nuestro programa sin necesidad de que sea una instruccion contraria
+como lo vimos en el caso de else por ejemplo: si hoy tengo tiempo ire al cine pero si tengo tiempo y el cine esta cerrado
+entonces si tengo tiempo ire al centro comercial sino me quedare en casa.
+
+Estructura de control de bucles:
+
+Nos ayuda a repetir algunos pasos sin tener que volver a empezar desde el principio.
+En estas podemos usar For que nos ayuda a repetir un ciclo la cantidad de veces que necesitemos
+y While que repite el ciclo siempre y cuando la condicional sea cumplida.
+
+
+
