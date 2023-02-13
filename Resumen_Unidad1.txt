@@ -1,0 +1,54 @@
+Resumen unidad 1
+-----------------
+
+Sistema Binario
+---------------
+
+Cuando hablamos de programacion comocemos diferentes tipos de leguaje pero estos solo nos sirven para
+interpretarle a la computadora las ordenes o comandos que queremos que realice ya que estas solo utilizan el
+**sistema binario** el cual es un sisteama que esta conformado unicamente por dos caracteres que son 0 y 1 
+los cuales haciendo diferentes convinaciones podemos decirle a la computadora que realice una accion u otra.
+
+Con el codigo binario por si solo puede ser utilizado desde escribir un mensaje ciffrado, asi como con la ayuda 
+de un lenguaje podemos pedirle que haga mas cosas como una suma sin la necesidad de tener que escribir toda
+la secuencia de numeros binarios que conforman la accion que queremos.
+
+
+Logica
+------
+
+La logica en la progamacion es la forma en la que nosotros vamos a resolver el problema que se nos presente
+de manera coherente tambien nos ayuda a identificar si un enunciado es verdadero o falso segun el conocimiento
+que nosotros poseemos de este por ejemplo: el perro esun ave, por logica sabemos que el perro no es un ave.
+
+Pues la logica como tal es una caracteristica del ser humano que nos ayuda a saber si algo es cierto o no
+como por ejemplo si vamos a comer carne y vemos que esta tiene moho porlogica no deberiamos comerla porque 
+sabemos que si la comemos nos puede enfermar.
+
+Algoritmo
+---------
+
+Los algoritmos son una secuancia de pasos que debemos realizar al momento de efectuar una tarea el cual debe
+ir bien detallado diciendo de la manera mas clara como debemos ralizar cada paso, como observacion debemos
+asegurarnos que sin importar la cantidad de veces que realicemos la secuencia de pasos estos iempre deben darmos el
+mismo resultado.
+
+Desde cambiar una bombilla hasta construir una nave espacial debemos seguir una secuencia de pasos para llegar al
+resultado final en el caso de cambiar la bombilla debemos ver: donde se encuentra la bombilla que vamos a reeemplazar,
+de donde sacamos la bombilla que vamos a cambiar si es qu ela compramos o ya la teniamos en casa, sobreque objeto nos 
+vamos a parar si esta en un lugar elevado y si aun asi debemos estirarnos para poder cambiarla. ya con esto 
+podemos detallar todos los pasos que necesitamos para que nuestra tarea quede terminada siempre sin omitir ningun paso.
+
+Programacion
+------------
+
+Es la forma que tenemos nosotros de darle una instruccion a nuestra computadora para que haga alguna accion mediante
+un lenguaje de programacion pero tambien podemos programar diferentes objetos como nuestro reloj o un semaforo que 
+debe seguir una secuencia para funcionar correctamente.
+
+podemos usar la programacion desde crear una pagina web utilizando algoritmos en un lenguaje de programacion
+podemos hacerlo tambien con diferentes equipos como los variadores electricos que deben seguir una serie de instrucciones
+programadas en su interioir mediante parametros tambien los servodrives puednen ser programados para tener una secuencia
+por ejemplo dar media vuelta y luego regresar a su posicion inicial y siempre lo hara de esta manera siesta bien configurado.
+
+
