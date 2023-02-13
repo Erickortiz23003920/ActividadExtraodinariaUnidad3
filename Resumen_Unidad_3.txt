@@ -1,0 +1,20 @@
+Controladores de versiones
+
+Los controladoresde versiones son herramientas que nos ayudan a tener un historiald e cambiosque nosotros o terceros
+han realizado a nuestro programa com implemetacion de datos, o tambien borrar algunos archivos que nos seran de utilidad
+para nuestra nueva version. 
+
+Nos ayuda a tener mas ordenado nuestro codigo y si en algun momento agregamos un error lo podemos solucionar revisando 
+la version anterior que subimos anteriormente para identificar los cambios mediante un commit que colocamos o bien
+revisando el codigo si no tenemos un commit especifico para lo que realizamos.
+
+GIT
+
+git es uno de los controladores de versiones mas utilizado teniendo servicios de alojamiento basados en el como
+lo es GITHUB, con el cual mediante su pagina o app podemos ver nuestros repositorios que contienen alojados los archivos
+de nuestros proyectos.
+
+Podemos acceder a estos mediante comandos ingresados desde la terminal de nuestra computadora o mediante el Git bash
+que es el propio panel del controlador de versiones, aqui podremos adicionar o borrar archivos a nuestro proyecto
+enlazando nuestra cuenta y el repositorio con el que vamos a ingresar para modificarlo.
+
